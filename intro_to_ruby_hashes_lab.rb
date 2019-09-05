@@ -1,9 +1,11 @@
 def new_hash
-  # return an empty hash
+  new = {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  # return a valid hash with any key/value pair of your choise
+  person = {name: "Sam"}
+  return person
 end
 
 def pioneer
